@@ -1,0 +1,5 @@
+1001|staff|Admin User|admin@mail.com|123456789|admin123|[]
+1002|student|Student User|student@mail.com|987654321|student123|[]
+1003|staff|ablacim|ablacim@hotmail.com|07342869242|ablacim123|[]
+1004|student|anca|anca@gmail.com|123123123|123321|[]
+1005|student|volkan|volkan123@hotmail.com|123|123123|[]
